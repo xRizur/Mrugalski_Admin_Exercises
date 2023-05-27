@@ -1,0 +1,1 @@
+docker run nginx -p 80:80 -volumes /tmp/strona:/var/www/html --rm --memory=256mb

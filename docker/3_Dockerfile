@@ -1,0 +1,6 @@
+FROM nginx
+
+EXPOSE 80
+
+COPY /tmp/strona /var/www/html
+

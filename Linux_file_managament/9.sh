@@ -1,0 +1,1 @@
+find -size +1M -name "b*" -exec rm -rf {} \;

@@ -1,0 +1,1 @@
+truncate -s 10000000 plik.txt
